@@ -1,0 +1,10 @@
+# Please insure that your custom_dataset are put in same parent dir with YOLOv6_DIR
+train: D:/pycharm/Medical-images/MedCV/dataset/cloth_YOLO_data/augument_data/cutted/images/train # train images
+val: D:/pycharm/Medical-images/MedCV/dataset/cloth_YOLO_data/divide_data/cutted/images/test # val images
+test: D:/pycharm/Medical-images/MedCV/dataset/cloth_YOLO_data/divide_data/cutted/images/test # test images (optional)
+
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: False
+# Classes
+nc: 1
+names: ['defect']

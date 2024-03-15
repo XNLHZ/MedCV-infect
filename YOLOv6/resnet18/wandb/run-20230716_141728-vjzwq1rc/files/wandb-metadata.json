@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2023-07-16T06:17:31.116132",
+    "startedAt": "2023-07-16T06:17:28.175899",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\pycharm\\Medical-images\\MedCV\\resnet18\\resnet18.py",
+    "codePath": "resnet18\\resnet18.py",
+    "git": {
+        "remote": "https://github.com/Yeba/MedCV.git",
+        "commit": "0a41f580f318a8cd8ba7bc2e9a8da3fc01db683a"
+    },
+    "email": "2784176749@qq.com",
+    "root": "D:/pycharm/Medical-images/MedCV",
+    "host": "DESKTOP-DE7CDID",
+    "username": "XHC",
+    "executable": "C:\\Users\\XHC\\.conda\\envs\\CVpy38\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2500.0,
+        "min": 0.0,
+        "max": 2500.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2500.0,
+            "min": 0.0,
+            "max": 2500.0
+        }
+    ],
+    "disk": {
+        "total": 499.99901962280273,
+        "used": 432.4886131286621
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Ti",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.78030776977539
+    }
+}

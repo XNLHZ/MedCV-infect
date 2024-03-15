@@ -1,0 +1,176 @@
+Start write!!! 
+Accuracy on test set: (3471/5000)69 % 
+Accuracy on test set: (3907/5000)78 % 
+Accuracy on test set: (4224/5000)84 % 
+Accuracy on test set: (4425/5000)88 % 
+Accuracy on test set: (4412/5000)88 % 
+Accuracy on test set: (4576/5000)91 % 
+Accuracy on test set: (4599/5000)91 % 
+Accuracy on test set: (4572/5000)91 % 
+Accuracy on test set: (4662/5000)93 % 
+Accuracy on test set: (4616/5000)92 % 
+Start write!!! 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Start write!!! 
+Accuracy on test set: (53/53)100 % 
+Accuracy on test set: (53/53)100 % 
+Start write!!! 
+Accuracy on test set: (578/624)92 % 
+Accuracy on test set: (581/624)93 % 
+Accuracy on test set: (577/624)92 % 
+Accuracy on test set: (579/624)92 % 
+Accuracy on test set: (582/624)93 % 
+Accuracy on test set: (578/624)92 % 
+Accuracy on test set: (582/624)93 % 
+Accuracy on test set: (580/624)92 % 
+Accuracy on test set: (584/624)93 % 
+Accuracy on test set: (577/624)92 % 
+Start write!!! 
+Accuracy on test set: (973/1048)92 % 
+Accuracy on test set: (1004/1048)95 % 
+Accuracy on test set: (998/1048)95 % 
+Accuracy on test set: (1000/1048)95 % 
+Accuracy on test set: (996/1048)95 % 
+Accuracy on test set: (1008/1048)96 % 
+Accuracy on test set: (998/1048)95 % 
+Accuracy on test set: (1012/1048)96 % 
+Accuracy on test set: (992/1048)94 % 
+Accuracy on test set: (1002/1048)95 % 
+Start write!!! 
+Accuracy on test set: (108/149)72 % 
+Accuracy on test set: (101/149)67 % 
+Accuracy on test set: (111/149)74 % 
+Accuracy on test set: (116/149)77 % 
+Accuracy on test set: (111/149)74 % 
+Accuracy on test set: (119/149)79 % 
+Accuracy on test set: (116/149)77 % 
+Accuracy on test set: (123/149)82 % 
+Accuracy on test set: (112/149)75 % 
+Accuracy on test set: (108/149)72 % 
+Start write!!! 
+Start write!!! 
+Accuracy on test set: (17/49)34 % 
+Accuracy on test set: (24/49)48 % 
+Accuracy on test set: (28/49)57 % 
+Accuracy on test set: (25/49)51 % 
+Accuracy on test set: (28/49)57 % 
+Accuracy on test set: (21/49)42 % 
+Accuracy on test set: (27/49)55 % 
+Accuracy on test set: (23/49)46 % 
+Accuracy on test set: (22/49)44 % 
+Accuracy on test set: (24/49)48 % 
+Start write!!! 
+Accuracy on test set: (49/49)100 % 
+Accuracy on test set: (49/49)100 % 
+Accuracy on test set: (49/49)100 % 
+Accuracy on test set: (49/49)100 % 
+Accuracy on test set: (49/49)100 % 
+Start write!!! 
+Accuracy on test set: (0/49)0 % 
+Accuracy on test set: (0/49)0 % 
+Accuracy on test set: (4/49)8 % 
+Accuracy on test set: (3/49)6 % 
+Accuracy on test set: (2/49)4 % 
+Accuracy on test set: (1/49)2 % 
+Accuracy on test set: (4/49)8 % 
+Accuracy on test set: (2/49)4 % 
+Accuracy on test set: (6/49)12 % 
+Accuracy on test set: (2/49)4 % 
+Start write!!! 
+Accuracy on test set: (21/49)42 % 
+Accuracy on test set: (30/49)61 % 
+Accuracy on test set: (32/49)65 % 
+Accuracy on test set: (26/49)53 % 
+Accuracy on test set: (28/49)57 % 
+Accuracy on test set: (25/49)51 % 
+Accuracy on test set: (23/49)46 % 
+Accuracy on test set: (23/49)46 % 
+Accuracy on test set: (28/49)57 % 
+Accuracy on test set: (24/49)48 % 
+Start write!!! 
+Accuracy on test set: (20/49)40 % 
+Accuracy on test set: (19/49)38 % 
+Accuracy on test set: (25/49)51 % 
+Accuracy on test set: (34/49)69 % 
+Accuracy on test set: (30/49)61 % 
+Accuracy on test set: (21/49)42 % 
+Accuracy on test set: (23/49)46 % 
+Accuracy on test set: (27/49)55 % 
+Accuracy on test set: (28/49)57 % 
+Accuracy on test set: (21/49)42 % 
+Start write!!! 
+Accuracy on test set: (38/49)77 % 
+Accuracy on test set: (40/49)81 % 
+Accuracy on test set: (47/49)95 % 
+Accuracy on test set: (30/49)61 % 
+Accuracy on test set: (26/49)53 % 
+Accuracy on test set: (45/49)91 % 
+Accuracy on test set: (43/49)87 % 
+Accuracy on test set: (42/49)85 % 
+Accuracy on test set: (24/49)48 % 
+Accuracy on test set: (36/49)73 % 
+Start write!!! 
+Accuracy on test set: (3/49)6 % 
+Accuracy on test set: (0/49)0 % 
+Accuracy on test set: (0/49)0 % 
+Accuracy on test set: (3/49)6 % 
+Accuracy on test set: (3/49)6 % 
+Accuracy on test set: (4/49)8 % 
+Accuracy on test set: (3/49)6 % 
+Accuracy on test set: (2/49)4 % 
+Accuracy on test set: (2/49)4 % 
+Accuracy on test set: (0/49)0 % 
+Start write!!! 
+Accuracy on test set: (21/49)42 % 
+Accuracy on test set: (26/49)53 % 
+Accuracy on test set: (25/49)51 % 
+Accuracy on test set: (20/49)40 % 
+Accuracy on test set: (21/49)42 % 
+Accuracy on test set: (29/49)59 % 
+Accuracy on test set: (27/49)55 % 
+Accuracy on test set: (25/49)51 % 
+Accuracy on test set: (22/49)44 % 
+Accuracy on test set: (20/49)40 % 
+Start write!!! 
+Start write!!! 
+Accuracy on test set: (107/285)37 % 
+Accuracy on test set: (167/285)58 % 
+Accuracy on test set: (153/285)53 % 
+Accuracy on test set: (166/285)58 % 
+Accuracy on test set: (162/285)56 % 
+Accuracy on test set: (169/285)59 % 
+Accuracy on test set: (148/285)51 % 
+Accuracy on test set: (156/285)54 % 
+Accuracy on test set: (129/285)45 % 
+Accuracy on test set: (180/285)63 % 
+Start write!!! 
+Accuracy on test set: (285/334)85 % 
+Accuracy on test set: (285/334)85 % 
+Accuracy on test set: (285/334)85 % 
+Accuracy on test set: (268/334)80 % 
+Accuracy on test set: (276/334)82 % 
+Accuracy on test set: (285/334)85 % 
+Accuracy on test set: (284/334)85 % 
+Accuracy on test set: (239/334)71 % 
+Accuracy on test set: (256/334)76 % 
+Accuracy on test set: (281/334)84 % 
+Start write!!! 
+Accuracy on test set: (281/334)84 % 
+Accuracy on test set: (257/334)76 % 
+Accuracy on test set: (283/334)84 % 
+Accuracy on test set: (261/334)78 % 
+Accuracy on test set: (261/334)78 % 
+Accuracy on test set: (282/334)84 % 
+Accuracy on test set: (275/334)82 % 
+Accuracy on test set: (282/334)84 % 
+Accuracy on test set: (269/334)80 % 
+Accuracy on test set: (275/334)82 % 
